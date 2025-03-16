@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876019913273",
+    "project_id": "cruceschessclub-d09a7",
+    "storage_bucket": "cruceschessclub-d09a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876019913273:android:2b7160aa6b86d12a9d73e8",
+        "android_client_info": {
+          "package_name": "com.ccc_mobile.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbFZm2f6XdsHis1sOW0PuQEo8n_AlGWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
